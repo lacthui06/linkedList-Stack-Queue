@@ -1,4 +1,6 @@
-Simple reference code for Node, Linked List, Stack, and Queue
+Simple reference code for Node, Linked List, Stack and Queue
+
+The main implementation is located in linkedList.cpp include : Linked List, Stack and Queue
 
 main.cpp to run code linked list
 
