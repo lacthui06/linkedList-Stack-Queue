@@ -1,4 +1,4 @@
-Data structure : linked list, stack, queue
+Simple reference code for Node, Linked List, Stack, and Queue
 
 main.cpp to run code linked list
 
